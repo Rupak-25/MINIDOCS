@@ -20,6 +20,7 @@ MINIDOCS is a modern and responsive documentation site built using React with Vi
 <h4>Follow these steps to set up the project locally:</h4>
 - Clone the repository:<br/>
 👉 git clone https://github.com/Rupak-25/MINIDOCS.git<br/>
+👉 cd MINIDOCS<br/>
 👉 cd minidocs<br/>
 
 
